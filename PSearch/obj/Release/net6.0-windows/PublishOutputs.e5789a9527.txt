@@ -1,0 +1,5 @@
+E:\Code\Person\PSearch\PSearch\PSearch\release\PSearch.exe
+E:\Code\Person\PSearch\PSearch\PSearch\release\PSearch.dll
+E:\Code\Person\PSearch\PSearch\PSearch\release\PSearch.deps.json
+E:\Code\Person\PSearch\PSearch\PSearch\release\PSearch.runtimeconfig.json
+E:\Code\Person\PSearch\PSearch\PSearch\release\PSearch.pdb

@@ -1,0 +1,17 @@
+E:\Code\Person\PSearch\PSearch\PSearch\bin\Release\net6.0-windows\PSearch.exe
+E:\Code\Person\PSearch\PSearch\PSearch\bin\Release\net6.0-windows\PSearch.deps.json
+E:\Code\Person\PSearch\PSearch\PSearch\bin\Release\net6.0-windows\PSearch.runtimeconfig.json
+E:\Code\Person\PSearch\PSearch\PSearch\bin\Release\net6.0-windows\PSearch.dll
+E:\Code\Person\PSearch\PSearch\PSearch\bin\Release\net6.0-windows\PSearch.pdb
+E:\Code\Person\PSearch\PSearch\PSearch\obj\Release\net6.0-windows\PSearch.csproj.AssemblyReference.cache
+E:\Code\Person\PSearch\PSearch\PSearch\obj\Release\net6.0-windows\PSearch.Form1.resources
+E:\Code\Person\PSearch\PSearch\PSearch\obj\Release\net6.0-windows\PSearch.csproj.GenerateResource.cache
+E:\Code\Person\PSearch\PSearch\PSearch\obj\Release\net6.0-windows\PSearch.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\Person\PSearch\PSearch\PSearch\obj\Release\net6.0-windows\PSearch.AssemblyInfoInputs.cache
+E:\Code\Person\PSearch\PSearch\PSearch\obj\Release\net6.0-windows\PSearch.AssemblyInfo.cs
+E:\Code\Person\PSearch\PSearch\PSearch\obj\Release\net6.0-windows\PSearch.csproj.CoreCompileInputs.cache
+E:\Code\Person\PSearch\PSearch\PSearch\obj\Release\net6.0-windows\PSearch.dll
+E:\Code\Person\PSearch\PSearch\PSearch\obj\Release\net6.0-windows\refint\PSearch.dll
+E:\Code\Person\PSearch\PSearch\PSearch\obj\Release\net6.0-windows\PSearch.pdb
+E:\Code\Person\PSearch\PSearch\PSearch\obj\Release\net6.0-windows\PSearch.genruntimeconfig.cache
+E:\Code\Person\PSearch\PSearch\PSearch\obj\Release\net6.0-windows\ref\PSearch.dll

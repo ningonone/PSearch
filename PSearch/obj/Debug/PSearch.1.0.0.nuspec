@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PSearch</id>
+    <version>1.0.0</version>
+    <authors>PSearch</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net6.0-windows7.0/res/bitbug_favicon.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="E:\Code\Person\PSearch\PSearch\PSearch\bin\Debug\net6.0-windows\PSearch.runtimeconfig.json" target="lib\net6.0-windows7.0\PSearch.runtimeconfig.json" />
+    <file src="E:\Code\Person\PSearch\PSearch\PSearch\bin\Debug\net6.0-windows\PSearch.dll" target="lib\net6.0-windows7.0\PSearch.dll" />
+    <file src="E:\Code\Person\PSearch\PSearch\PSearch\res\bitbug_favicon.ico" target="content\res\bitbug_favicon.ico" />
+    <file src="E:\Code\Person\PSearch\PSearch\PSearch\res\bitbug_favicon.ico" target="contentFiles\any\net6.0-windows7.0\res\bitbug_favicon.ico" />
+  </files>
+</package>
